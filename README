@@ -1,0 +1,40 @@
+orlykor12
+203595541
+orly koren
+
+I discussed the exercise with: hofit bata, yuval jacoby .
+
+=============================
+=  README for ex4- nim game
+=============================
+
+
+
+==================
+=  Description:  =
+==================
+
+this program display a game called 'nim'
+it has 2 options: player against the computer or player against another
+player. the game goes as each player chose a row and amount of straws and the 
+last player to take the last straw is the winner. 
+then the game can go again if the winner wants to. 
+
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+nim.py
+README
+
+
+======================
+=  Special Comments  =
+======================
+
+
+
+
+
